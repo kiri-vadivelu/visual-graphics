@@ -359,7 +359,7 @@ input[type="email"]:valid {
   
 @media all and (orientation: landscape) and (max-height: 600px) {
   #main {
-    padding: 25px 0;
+    padding: 40px 0;
   }
   footer,
   .fa-layer-group,
