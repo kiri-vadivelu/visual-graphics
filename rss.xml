@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2015/Atom">
+  <channel>
+    <atom:link href="https://visualgraphics.ca/rss.xml" rel="self" type="application/rss+xml" />
+    <title>Visual Graphics: Digital Marketing & Print Design</title>
+    <link>https://visualgraphics.ca</link>
+    <description>Digital Marketing & Print Design Service in Toronto</description>
+    <item>
+      <guid>https://visualgraphics.ca</guid>
+      <title>Visual Graphics: Digital Marketing & Print Design</title>
+      <link>https://visualgraphics.ca</link>
+      <description />
+      <pubDate>Fri, 14 Aug 2020 11:01:01 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://visualgraphics.ca/studio.html</guid>
+      <title>Visual Graphics: Operating Locations</title>
+      <link>https://visualgraphics.ca/studio.html</link>
+      <description />
+      <pubDate>Fri, 14 Aug 2020 11:01:01 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://visualgraphics.ca/service.html</guid>
+      <title>Visual Graphics: Digital Photography Service</title>
+      <link>https://visualgraphics.ca/service.html</link>
+      <description />
+      <pubDate>Fri, 14 Aug 2020 11:01:01 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://visualgraphics.ca/contact.html</guid>
+      <title>Visual Graphics: Contact</title>
+      <link>https://visualgraphics.ca/contact.html</link>
+      <description />
+      <pubDate>Fri, 14 Aug 2020 11:01:01 Z</pubDate>
+    </item>
+    
+  </channel>
+</rss>
