@@ -96,7 +96,7 @@
     trackEvent,
     trackException
   };
-})(window, "UA-154865406-8", {
+})(window, "UA-154865406-11", {
   anonymizeIp: true,
   colorDepth: true,
   characterSet: true,
