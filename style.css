@@ -107,7 +107,8 @@
     border-bottom: solid 2px var(--highlight);
   }
   .current {
-    color: var(--secondary);
+    color: var(--accent);
+    opacity: .7;
   }  
   li {
     list-style: none;
@@ -141,7 +142,7 @@
   }
   .card {
     width: 200px;
-    padding: 1rem;
+    padding: .5rem;
     display: inline-block;
   }
   .card p {
@@ -214,7 +215,7 @@
   display: block;
   margin: auto;
   color: var(--light);
-  max-width: 450px;
+  max-width: 600px;
 }
 
 .fa-map-marker {
@@ -360,14 +361,12 @@ input[type="email"]:valid {
   #main {
     padding: 25px 0;
   }
-  footer {
-  display: none;
+  footer,
+  .fa-layer-group,
+  .fa-wave-square {
+    display: none;
   }
-  .gallery {
-  max-width: 100%;
-  margin: 30px auto;
-  padding: 0 5px;
-  }
+
 }
 
 @media print {
